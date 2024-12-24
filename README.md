@@ -1,15 +1,13 @@
 # babfs
 basicly a bash fetch script
----
 ## requirements:
 - bash
 - a *nix system
----
+- cc
 ## install:
 ```
 git clone https://github.com/lovemearowlet/babfs.git
 cd babfs
 cc main.c -o babfs
-sudo cp babfs /bin/
+sudo cp babfs /bin/ 
 ```
----
