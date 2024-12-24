@@ -6,9 +6,10 @@ basicly a bash fetch script
 - make
 - cc
 - sudo
+- git
 ## install:
 ```
-git clone https://github.com/lovemearowlet/babfs.git
+git clone https://github.com/lovemearowlet/babfs.git babfs
 cd babfs
 sudo make install
 ```
