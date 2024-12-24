@@ -3,7 +3,6 @@ basicly a bash fetch script
 ## requirements:
 - bash
 - a *nix system
-- cc
 ## install:
 ```
 git clone https://github.com/lovemearowlet/babfs.git
