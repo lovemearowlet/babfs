@@ -1,12 +1,12 @@
-# babfs
+# babfs (testing branch)
 basicly a bash fetch script
 ## requirements:
 - bash
 - a *nix system
-- make (for makefile)
-- cc (for makefile)
-- sudo (for makefile)
-## install (makefile) :
+- make
+- cc
+- sudo
+## install:
 ```
 git clone https://github.com/lovemearowlet/babfs.git
 cd babfs
