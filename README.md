@@ -1,5 +1,5 @@
 # babfs
-a small stupid little think i made in C
+basicly a bash fetch script
 ---
 ## requirements:
 - bash
