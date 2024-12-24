@@ -2,4 +2,4 @@
 basicly a bash fetch script
 ## requirements:
 - bash
-- a *nix system
+- a *nix system (tested on linux)
